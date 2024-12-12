@@ -12,7 +12,6 @@ const Home = () => {
     </div>
   );
 };
-
 const linkStyle = {
   display: 'block',
   margin: '10px 0',
